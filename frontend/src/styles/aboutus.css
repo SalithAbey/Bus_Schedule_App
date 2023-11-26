@@ -1,0 +1,63 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+
+.who{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+
+
+}
+
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+
+.vision{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+
+
+}
+
+
+.works{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--secondary-color);
+    padding: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
